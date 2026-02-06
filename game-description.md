@@ -156,28 +156,6 @@ Track your progress with detailed stats:
 
 ---
 
-## 🎨 Game Features
-
-### Beautiful Design
-- 🌈 Vibrant, colorful interface
-- 🎴 Smooth card flip animations
-- ✨ Celebration effects on wins
-- 📱 Mobile-optimized experience
-
-### User-Friendly
-- 🎯 Simple, intuitive controls
-- 🔄 Easy difficulty switching
-- 📈 Clear progress tracking
-- 🏃 Quick game sessions (2-5 minutes)
-
-### Engaging Experience
-- 🎵 Satisfying sound effects (coming soon)
-- 🎊 Victory celebrations
-- 📊 Live score updates
-- ⚡ Real-time combo notifications
-
----
-
 ## 🎯 Why Play Food Rush?
 
 ### For Fun
@@ -213,11 +191,6 @@ Track your progress with detailed stats:
 - ⏱️ **Medium Mode**: 2-3 minutes
 - ⏱️ **Hard Mode**: 3-5 minutes
 
-### No Commitment
-- Play one game or many
-- Pause anytime (return to home)
-- No energy system - play unlimited
-- Progress saved automatically
 
 ---
 
